@@ -1,0 +1,10 @@
+@import "~materialize-css/dist/css/materialize.min.css";
+
+.c-form {
+    display: flex;
+    justify-content: center;
+    
+    &__card {
+        min-width: 500px;
+    }
+}
