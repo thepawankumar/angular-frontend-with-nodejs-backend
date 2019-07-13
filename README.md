@@ -1,3 +1,3 @@
-# NodeJS Backend
+# Angular Frontend with NodeJS backend
 
-[See documentation here](https://js-school.mdmfd.com/)
+[See documentation repository](https://github.com/webuxmotion/angular-frontend-docs)
